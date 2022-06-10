@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33315162675",
+    "project_id": "fedha-zangu",
+    "storage_bucket": "fedha-zangu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33315162675:android:6f2b95baed4eb4780eb146",
+        "android_client_info": {
+          "package_name": "com.example.fedha_zangu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33315162675-b7v64nq9h9npkvcqaj1cfe6ps1p58eqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4RNVCEaMtp88HIF6Rb4aN7MS1C593h8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33315162675-b7v64nq9h9npkvcqaj1cfe6ps1p58eqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
